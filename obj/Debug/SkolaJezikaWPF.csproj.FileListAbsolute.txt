@@ -1,0 +1,156 @@
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe.config
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.pdb
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF_MarkupCompile.cache
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.g.resources
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.Properties.Resources.resources
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.exe
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.pdb
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciWindow.baml
+c:\users\student\documents\visual studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe.config
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.exe
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.pdb
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\MainWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KorisniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\App.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF_MarkupCompile.cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.g.resources
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.Properties.Resources.resources
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.pdb
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\LoginWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\LoginWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\LoginWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\LoginWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UceniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe.config
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.exe
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.pdb
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.pdb
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\LoginWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\MainWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\LoginWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\App.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF_MarkupCompile.cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.g.resources
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.Properties.Resources.resources
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe.config
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.exe
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\bin\Debug\SkolaJezikaWPF.pdb
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\LoginWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\MainWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciWindow.baml
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciEditWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KorisniciWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\LoginWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciEditWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\NastavniciWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciEditWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UceniciWindow.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\App.g.cs
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF_MarkupCompile.cache
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.g.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.Properties.Resources.resources
+C:\Users\student\Documents\Visual Studio 2012\Projects\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF_Content.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAddWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAddWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAdd1Window.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAdd1Window.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAdd2Window.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAdd2Window.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\TipoviKursaWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\TipoviKursaWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\TipoviKursaEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\TipoviKursaEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\JezikEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\JezikWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\JezikEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\JezikWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UplateEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UplateWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UplateEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\UplateWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAdd3Window.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF1\SkolaJezikaWPF\obj\Debug\KursAdd3Window.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\JezikEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\JezikWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAdd1Window.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAdd2Window.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAdd3Window.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAddWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\TipoviKursaEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\TipoviKursaWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UplateEditWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UplateWindow.baml
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\JezikEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\JezikWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAdd1Window.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAdd2Window.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAdd3Window.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursAddWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\KursWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\TipoviKursaEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\TipoviKursaWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UplateEditWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\UplateWindow.g.cs
+C:\Users\win7\Desktop\fax\za predaju\SkolaJezikaWPF\SkolaJezikaWPF\obj\Debug\SkolaJezikaWPF_Content.g.cs
