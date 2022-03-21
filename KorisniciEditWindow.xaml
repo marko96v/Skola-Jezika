@@ -1,0 +1,40 @@
+﻿<Window x:Class="SkolaJezikaWPF.KorisniciEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KorisniciEditWindow" Height="430" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="Ime" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="1" HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="Prezime" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="2" HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="JMBG" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="3" HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="Korisnicko ime" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="4" HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="Lozinka" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="5" HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="Datum rodjenja" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="6" HorizontalAlignment="Left" Margin="10" TextWrapping="NoWrap" Text="Tip Korisnika" VerticalAlignment="Center"/>
+        <TextBox Name="tbIme" Text="{Binding Path=Ime}" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="10" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox Name="tbPrzime" Text="{Binding Path=Prezime}" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Left" Height="23" Margin="10" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox Name="tbJmbg" Text="{Binding Path=JMBG}" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" Height="23" Margin="10" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox Name="tbKime" Text="{Binding Path=KorisnickoIme}" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Left" Height="23" Margin="10" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <TextBox Name="tbLozinka" Text="{Binding Path=Lozinka}" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="4" HorizontalAlignment="Left" Height="23" Margin="10" TextWrapping="Wrap" VerticalAlignment="Center" Width="120"/>
+        <Button Name="bSacuvaj" Content="Sacuvaj" HorizontalAlignment="Left" Margin="10" Grid.Row="7" VerticalAlignment="Center" Width="75" Grid.Column="1" Click="bSacuvaj_Click"/>
+        <Button Name="bOdustani" Content="Odustani" Grid.Column="2" HorizontalAlignment="Left" Margin="10" Grid.Row="7" VerticalAlignment="Center" Width="75" Click="bOdustani_Click"/>
+        <DatePicker SelectedDate="{Binding Path=DatumRodjenja}" Grid.Column="1" HorizontalAlignment="Left" Margin="10,16,0,0" Grid.Row="5" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <ComboBox Name="cbTip" DisplayMemberPath="Naziv" SelectedItem="{Binding Path=Tip}" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Margin="10,17,0,0" Grid.Row="6" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

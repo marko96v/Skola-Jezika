@@ -1,0 +1,12 @@
+﻿<Window x:Class="SkolaJezikaWPF.UplateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="UplateWindow" Height="400" Width="400">
+    <Grid>
+        <Button Name="bDodaj" Content="Dodavanje" HorizontalAlignment="Left" Margin="306,175,0,0" VerticalAlignment="Top" Width="75" Click="bDodaj_Click"/>
+        <Button Name="bIzmeni" Content="Izmena" HorizontalAlignment="Left" Margin="306,226,0,0" VerticalAlignment="Top" Width="75" Click="bIzmeni_Click"/>
+        <Button Name="bObrisi" Content="Brisanje" HorizontalAlignment="Left" Margin="306,275,0,0" VerticalAlignment="Top" Width="75" Click="bObrisi_Click"/>
+        <Button Name="bZatvori" Content="Zatvori" HorizontalAlignment="Left" Margin="306,323,0,0" VerticalAlignment="Top" Width="75" Click="bZatvori_Click"/>
+        <DataGrid Name="dgUplate" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Height="247" Width="233" SelectionChanged="dgUplate_SelectionChanged" />
+    </Grid>
+</Window>

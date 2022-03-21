@@ -1,0 +1,11 @@
+﻿<Window x:Class="SkolaJezikaWPF.KursAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KursAddWindow" Height="253" Width="266">
+    <Grid>
+        <DataGrid Name="dgJezik" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="237" Height="130" SelectionChanged="dgJezik_SelectionChanged" />
+        <Button Name="bDalje" Content="Dalje" HorizontalAlignment="Left" Margin="86,177,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="bDalje_Click" />
+
+
+    </Grid>
+</Window>
